@@ -7,4 +7,4 @@ Notebooks:
 
 * update_df_periodically.ipynb - imports sma_scrapping.ipynb and updates the dataframe hourly
 
-* updating_df_and_graphs.ipynb - plot graphs
+* graphs.ipynb - plot graphs
